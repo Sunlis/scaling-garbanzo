@@ -1,3 +1,3 @@
 # scaling-garbanzo
 
-## Hi welcome to my repo its the best
+## Hi welcome to my repo it's the best
